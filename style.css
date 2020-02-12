@@ -5,3 +5,7 @@ body {background-color: aqua;}
 p {
   text-indent: 50px;
 }
+
+img{
+    border:1pt solid #704532;
+}
